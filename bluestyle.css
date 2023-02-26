@@ -1,8 +1,17 @@
 body {
-background-color: lightblue;
+    background-color: lightblue;
+}
+
+button {
+    width: 300px;
+    height: 200px;
 }
 
 h1 {
-color: navy;
-margin-left: 20px;
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+    text-align: center;
 }
